@@ -1,2 +1,3 @@
-# gcp_module
-This repo is used for GCP module
+ 
+# terraform-gcp-module
+This repository is used to create terraform modules
