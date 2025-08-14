@@ -1,7 +1,7 @@
 terraform {
   backend "remote" {
     hostname     = "app.terraform.io"
-    organization = "Simple_sign"
+    organization = "Rizwan-org"
 
     workspaces {
       name = "terraform-gpc-module"
