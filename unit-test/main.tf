@@ -7,7 +7,7 @@ module "test_run" {
   project_id      = var.project_id
   project_name    = var.project_id
   region          = "europe-west1"
-  billing_account = "01FC28-C6CDE5-94EAC6"
+  billing_account = "01FC-AS1-Ad1-S"
 
 
   ##### vpc network ######
